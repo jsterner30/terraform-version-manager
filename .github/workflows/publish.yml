@@ -41,7 +41,7 @@ jobs:
             url: https://npm.pkg.github.com
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           # Lerna needs the git history to automatically bump package versions
           fetch-depth: 0
@@ -108,7 +108,7 @@ jobs:
       packages: read
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           # Lerna needs the git history to automatically bump package versions
           fetch-depth: 0
