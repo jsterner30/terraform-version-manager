@@ -18,7 +18,7 @@
     "concurrently": "^8.0.1",
     "conventional-changelog-cli": "^2.2.2",
     "husky": "^8.0.2",
-    "lerna": "^7.1.0",
+    "lerna": "^8.1.2",
     "nx": "^16.4.0",
     "rimraf": "^5.0.0",
     "standard": "^17.1.0"
