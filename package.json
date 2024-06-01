@@ -16,7 +16,7 @@
     "@commitlint/cli": "^17.2.0",
     "@commitlint/config-angular": "^17.2.0",
     "concurrently": "^8.0.1",
-    "conventional-changelog-cli": "^2.2.2",
+    "conventional-changelog-cli": "^5.0.0",
     "husky": "^8.0.2",
     "lerna": "^7.1.0",
     "nx": "^16.4.0",
